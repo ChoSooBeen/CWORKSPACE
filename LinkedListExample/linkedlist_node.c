@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-
 // 공백 연결 리스트 생성
 linkhead* createLinkedList(void) {
     linkhead *list = (linkhead *)malloc(sizeof(linkhead));

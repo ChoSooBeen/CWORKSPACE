@@ -4,7 +4,6 @@
 
 int main(void) {
     linkhead *h;
-    node *p;
 
     h = createLinkedList();
     printf("linkedlist에 1, 2, 3 삽입하기\n");
